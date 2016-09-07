@@ -25,7 +25,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="temasek/android" remote="github" revision="cm-13.0" />
+  <project path="android" name="sigma-1/android" remote="github" revision="cm-13.0" />
 
   <project path="art" name="temasek/android_art" remote="github" revision="cm-13.0" />
   <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-13.0" />
@@ -37,8 +37,8 @@
   <project path="external/toybox" name="temasek/android_external_toybox" remote="github" revision="cm-13.0" />
   <project path="external/webp" name="temasek/android_external_webp" remote="github" revision="cm-13.0" />
   <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" remote="github" revision="cm-13.0" />
-  <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-13.0" />
-  <project path="frameworks/base" name="temasek/android_frameworks_base" remote="github" revision="cm-13.0" />
+  <project path="frameworks/av" name="sigma-1/android_frameworks_av" remote="github" revision="cm-13.0" />
+  <project path="frameworks/base" name="sigma-1/android_frameworks_base" remote="github" revision="cm-13.0" />
   <project path="frameworks/native" name="temasek/android_frameworks_native" remote="github" revision="cm-13.0" />
   <project path="frameworks/opt/bluetooth" name="temasek/android_frameworks_opt_bluetooth" remote="github" revision="cm-13.0" />
   <project path="frameworks/opt/cards" name="temasek/frameworks_opt_cards" remote="github" revision="cm-13.0" />
@@ -47,7 +47,7 @@
   <project path="frameworks/opt/net/wifi" name="temasek/android_frameworks_opt_net_wifi" remote="github" revision="cm-13.0" />
   <project path="frameworks/opt/telephony" name="temasek/android_frameworks_opt_telephony" remote="github" revision="cm-13.0" />
   <project path="frameworks/opt/timezonepicker" name="temasek/android_frameworks_opt_timezonepicker" remote="github" revision="cm-13.0" />
-  <project path="libcore" name="temasek/android_libcore" remote="github" revision="cm-13.0" />
+  <project path="libcore" name="sigma-1/android_libcore" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Bluetooth" name="temasek/android_packages_apps_Bluetooth" remote="github" revision="cm-13.0" />
   <project path="packages/apps/BluetoothExt" name="temasek/android_packages_apps_BluetoothExt" remote="github" revision="cm-13.0" />
   <project path="packages/apps/CellBroadcastReceiver" name="temasek/android_packages_apps_CellBroadcastReceiver" remote="github" revision="cm-13.0" />
@@ -72,10 +72,10 @@
   <project path="packages/services/Telecomm" name="temasek/android_packages_services_Telecomm" remote="github" revision="cm-13.0" />
   <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-13.0" />
   <project path="system/bt" name="temasek/android_system_bt" remote="github" revision="cm-13.0" />
-  <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-13.0" />
+  <project path="system/core" name="sigma-1/android_system_core" remote="github" revision="cm-13.0" />
   <project path="system/vold" name="temasek/android_system_vold" remote="github" revision="cm-13.0" />
-  <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-13.0" />
-  <project path="vendor/cmsdk" name="temasek/cm_platform_sdk" remote="github" revision="cm-13.0" />
+  <project path="vendor/cm" name="sigma-1/android_vendor_cm" remote="github" revision="cm-13.0" />
+  <project path="vendor/cmsdk" name="sigma-1/cm_platform_sdk" remote="github" revision="cm-13.0" />
 <!-- END of temasek -->
 
 <!-- BEGIN CYANOGENMOD -->
